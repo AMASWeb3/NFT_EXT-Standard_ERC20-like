@@ -1,5 +1,5 @@
 OKE Proposal /RFP)- Tokenized Reality Assets (RWA) Project*
-OKE is a secondary online platform aiming to ensure trust and transparency in the trading of traditional crafts and artistic processes.
+OKE is a secondary online platform aiming to ensure trust and transparency in the trading of traditional crafts and artistic processes for proof of donation.
 
 
 Pitch deck:
