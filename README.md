@@ -21,3 +21,15 @@ https://drive.google.com/file/d/1emoIp3mrS7vxPwpwRuO-pB4o2dM2H6TP/view?usp=drive
 
 OKE Demo site 【Sign & Sell RWA】
 https://aoxamas.com/oke
+
+【Demo operation】
+
+Step 1: Users scan the QR code with their smartphones, enter their name and email address on the entry site, and register.
+
+Step2: OKE will send a bonus NFT email to the user.
+
+Step3: User selects menu from anchor list, assigns, and contributes.
+
+Step4: The assigned SBT ticket will be sent to you via email after completing the selection criteria.
+
+Step5: Users can request assignments from other contributors and select rights that will be converted into RWA and auctioned, or they can receive a QR as an SBT loyalty tickets and use it as a benefit or preferential tickets.
